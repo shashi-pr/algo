@@ -1,0 +1,7 @@
+1) is graph bipartite
+2) Find a cycle
+3) Euler tour - is there a cycle that uses edge exactly once.( Answer - if degree is even)
+4) find a cycle that visits every vertex exactly once. - travelling salesperson person. - NP complete
+5) Are two graphs identical except for vertex names
+6) Layout graph in plane without crossing edges
+7)
